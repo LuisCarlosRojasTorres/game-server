@@ -8,7 +8,8 @@ app = Flask(__name__)
 
 version = {
 "version": "0.0.1",
-"title": "Jogo do Caboclo"
+"title": "Jogo do Caboclo",
+"subtitle": "Ela dá pra caralho!!"
 }
 
 @app.route('/')
